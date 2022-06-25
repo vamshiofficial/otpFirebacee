@@ -1,4 +1,4 @@
-# otpFirebacee
+# OTP + PUSH NOTIFICATIONS VIA FIREBASE
 
 
 this project contains the following features.
